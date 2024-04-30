@@ -1,0 +1,9 @@
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/SavingsCalculator.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/install.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/SavingsCalculator_autogen_timestamp_deps.dir
+/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/CMakeFiles/SavingsCalculator_autogen.dir

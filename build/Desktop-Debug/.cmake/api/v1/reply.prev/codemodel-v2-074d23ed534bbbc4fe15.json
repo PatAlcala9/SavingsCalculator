@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c492e06fd407db6aa96e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SavingsCalculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SavingsCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SavingsCalculator-Debug-66549c88420f69d47f15.json",
+					"name" : "SavingsCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SavingsCalculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SavingsCalculator_autogen-Debug-09db2e60447015679d45.json",
+					"name" : "SavingsCalculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SavingsCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SavingsCalculator_autogen_timestamp_deps-Debug-4b1327bade08e9eebd4f.json",
+					"name" : "SavingsCalculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug",
+		"source" : "/home/patrick/Documents/QT Projects/SavingsCalculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

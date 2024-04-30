@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_SavingsCalculator_FILE /home/patrick/Documents/QT Projects/SavingsCalculator/build/Desktop-Debug/SavingsCalculator)
